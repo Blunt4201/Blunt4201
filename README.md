@@ -1,4 +1,5 @@
 ### Dead Internet Project
+### https://deadinternet.online
 
 <!--
 **Blunt4201/Blunt4201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
